@@ -37,7 +37,7 @@
   </p>
 
 </div>
-
+![example](https://user-images.githubusercontent.com/52799665/226169357-4d1905f4-859e-49d5-911d-b564c33c60f7.png)
 
 
 <!-- TABLE OF CONTENTS -->
@@ -180,8 +180,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [contributors-url]: https://github.com/tariqmassaoudi/two-subs/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/tariqmassaoudi/two-subs/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/tariqmassaoudi/two-subs/Best-README-Template/stargazers
+[stars-shield]: https://img.shields.io/packagist/stars/tariqmassaoudi/two-subs
+[stars-url]: https://github.com/tariqmassaoudi/two-subs
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/tariqmassaoudi/two-subs/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
