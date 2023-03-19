@@ -75,7 +75,10 @@ https://user-images.githubusercontent.com/52799665/226168304-1ec7cf8d-3343-4d5c-
 
 1. Clone or download the repo to your local machine.
 2. Open chrome and go to chrome://extensions/ , enable developer mode and click Load unpacked.
-3. From the repo you downloaded select the build folder.
+ <img src="readme_images/installexplanation.png"/>
+4. From the repo you downloaded select the build folder.
+ <img src="readme_images/folderselect.png"/>
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
