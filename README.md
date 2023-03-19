@@ -3,24 +3,6 @@
 
 
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -37,7 +19,10 @@
   </p>
 
 </div>
-![example](https://user-images.githubusercontent.com/52799665/226169357-4d1905f4-859e-49d5-911d-b564c33c60f7.png)
+<div><p align="center">
+<img  src="https://user-images.githubusercontent.com/52799665/226169357-4d1905f4-859e-49d5-911d-b564c33c60f7.png" width="600" height="400">
+</p>
+    </div>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -52,6 +37,7 @@
       <a href="#japanese-learning-use-case-instructions">Japanese Learning Use Case Instructions</a>
     </li>
     <li><a href="#installation">Installation</a></li>
+     <li><a href="#installation">Developement</a></li>
      <li><a href="#features">Features</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -94,7 +80,16 @@ https://user-images.githubusercontent.com/52799665/226168304-1ec7cf8d-3343-4d5c-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Developement
 
+```
+git clone https://github.com/tariqmassaoudi/two-subs
+cd two-subs
+npm install
+npm start
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Features
