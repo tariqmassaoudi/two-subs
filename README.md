@@ -24,9 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="readme_iamges/logo.png" alt="Logo" width="80" height="80">
-  </a>
+    <img src="readme_images/logo.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">Two Subs</h3>
 
