@@ -1,0 +1,34 @@
+{
+  "name": "Two Subs",
+  "version": "1.0.0",
+  "description": "Add two subtitles simultaniously to any video,A library of Anime english and japanese subtitles is integrated for convinient japanese learning",
+  "manifest_version": 3,
+  "background": { "service_worker": "background.bundle.js" },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "logo.png"
+  },
+  "icons": {
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.bundle.js"],
+      "all_frames": true
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["*.png"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
